@@ -167,7 +167,6 @@ return [
         /*
          * Package Service Providers...
          */
-        Fideloper\Proxy\TrustedProxyServiceProvider::class,
 
         /*
          * Application Service Providers...
